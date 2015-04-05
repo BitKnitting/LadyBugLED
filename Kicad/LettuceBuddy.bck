@@ -1,10 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/4/2015 11:13:21 AM
-#
-$CMP LB_7805
-D Linear Regulator +5V
-K POWER REGUL
-F regulator\lm78xx.pdf
-$ENDCMP
+EESchema-DOCLIB  Version 2.0  Date: 4/4/2015 11:06:19 AM
 #
 $CMP LB_MCP6241
 D Dual Op amp (low power)

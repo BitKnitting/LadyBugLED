@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 4/4/2015 7:20:10 AM
+
+BeginCmp
+TimeStamp = /54E85FD0;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E87E8C;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E85FDD;
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7344B;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = LB_TestPoint;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E73458;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = LB_TestPoint;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E71838;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = LB_CONN_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7180B;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = LB_LED_HEAT_SINK_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E87D2C;
+Reference = R1;
+ValeurCmp = 245K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E71821;
+Reference = R2;
+ValeurCmp = .1;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E87D0E;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = LB_POT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E717F3;
+Reference = U1;
+ValeurCmp = MCP6241;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E85FA8;
+Reference = U2;
+ValeurCmp = 7805;
+IdModule  = LB_SOT89_3;
+EndCmp
+
+EndListe
