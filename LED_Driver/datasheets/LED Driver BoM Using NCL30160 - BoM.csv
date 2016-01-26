@@ -1,0 +1,7 @@
+Category,Schematic ID,Value,PN,MPN,Datasheet,Digikey,Mouser
+buck_converter,U1,,NCL30160DR2G,NCL30160DR2G,,,
+schottkey,D1,,MBR130LSF,MBR130LSF,,,
+inductor,L1,50µH,,,,,
+Capacitor,CIN,4.7µF,,,,,
+Capacitor,CVCC,,,,,,
+,H,,,,,,

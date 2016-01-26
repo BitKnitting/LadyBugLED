@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/margaret/Documents/LettuceBuddyHW/LadyBugHydro/Ladybug LED/Kicad/LadybugLED.sch</source>
+    <date>Monday, January 25, 2016 'AMt' 10:37:51 AM</date>
+    <tool>Eeschema 4.0.1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LadybugLED.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>NCL30160</value>
+      <fields>
+        <field name="PN">NCL30160DR2G</field>
+      </fields>
+      <libsource lib="LettuceBuddy" part="NCL30160"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56A60F09</tstamp>
+    </comp>
+</export>

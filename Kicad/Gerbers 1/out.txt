@@ -1,5 +1,0 @@
-Ladybug.drl
-Ladybug.gbl
-Ladybug.gko
-Ladybug.gtl
-out.txt
